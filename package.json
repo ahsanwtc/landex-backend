@@ -1,0 +1,17 @@
+{
+  "name": "landex-backend",
+  "version": "0.0.1",
+  "description": "Backend for Landex project, written with serverless framework and host on Microsoft Azure",
+  "scripts": {
+    "test": "echo \"No tests yet...\"",
+    "start": "func host start"
+  },
+  "keywords": [
+    "azure",
+    "serverless"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "serverless-azure-functions": "^2.0.0"
+  }
+}
