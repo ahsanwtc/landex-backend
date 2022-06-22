@@ -1,6 +1,6 @@
 # Landex Backend
 
-Backend for Landex project, written with serverless framework and host on Microsoft Azure.
+Backend for Landex project, written with serverless framework and hosted on Microsoft Azure.
 
 Refer to [Serverless docs](https://serverless.com/framework/docs/providers/azure/guide/intro/) for more information.
 
